@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "International break provides respite",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus in mollis nunc sed. Tempus urna et pharetra pharetra massa massa. Ipsum dolor sit amet consectetur. Eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Ut sem nulla pharetra diam sit amet nisl suscipit. Vitae ultricies leo integer malesuada. Consectetur adipiscing elit duis tristique sollicitudin nibh. Aliquet enim tortor at auctor urna nunc id cursus.",
+      "author": "Karen",
+      "id": 1
+    },
+    {
+      "title": "Back to the battle",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus in mollis nunc sed. Tempus urna et pharetra pharetra massa massa. Ipsum dolor sit amet consectetur. Eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Ut sem nulla pharetra diam sit amet nisl suscipit. Vitae ultricies leo integer malesuada. Consectetur adipiscing elit duis tristique sollicitudin nibh. Aliquet enim tortor at auctor urna nunc id cursus.",
+      "author": "Dan",
+      "id": 2
+    }
+  ]
+}

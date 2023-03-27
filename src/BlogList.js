@@ -1,5 +1,5 @@
 // destructure the props below so we can access in this component
-const BlogList = ({ blogs, title, handleDelete }) => {
+const BlogList = ({ blogs, title }) => {
   // to access the props:
   //   const blogs = props.blogs;
   return (
@@ -12,7 +12,7 @@ const BlogList = ({ blogs, title, handleDelete }) => {
             <h2>{blog.title}</h2>
             <p>Written by {blog.author}</p>
             {/* pass id into function so we know which blog to delete */}
-            <button onClick={() => handleDelete(blog.id)}>Delete blog</button>
+            {/* <button onClick={() => handleDelete(blog.id)}>Delete blog</button> */}
           </div>
         ))}
       </div>
