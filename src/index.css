@@ -58,3 +58,7 @@
   color: #e53233;
   margin-bottom: 8px;
 }
+
+.blog-preview a {
+  text-decoration: none;
+}

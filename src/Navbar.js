@@ -1,12 +1,14 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   return (
     <nav className="navbar">
       <img src="forest.png" alt="forest crest" className="crest" />
       <h1>The Nottingham Forest blog</h1>
       <div className="links">
-        <a href="/">Home</a>
-        <a
-          href="/create"
+        <Link to="/">Home</Link>
+        <Link
+          to="/create"
           style={{
             color: "white",
             backgroundColor: "#E53233",
@@ -14,7 +16,7 @@ const Navbar = () => {
           }}
         >
           New blog
-        </a>
+        </Link>
       </div>
     </nav>
   );
